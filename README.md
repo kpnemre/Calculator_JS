@@ -1,4 +1,4 @@
-# Project-006 : Calculator (JS-02)
+# Project: Calculator (JS-02)
 
 ## Description
 Project aims to create a calculator.
